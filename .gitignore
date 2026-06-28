@@ -1,0 +1,22 @@
+.gradle/
+build/
+
+# Kotlin/Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Android Studio
+.idea/
+*.iml
+/.gradle/
+/local.properties
+
+# Android
+app/build/
+captures/
+output.json
+
+# Misc
+.DS_Store

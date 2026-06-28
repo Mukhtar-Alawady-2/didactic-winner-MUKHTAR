@@ -1,0 +1,2 @@
+rootProject.name = "didactic-winner-MUKHTAR"
+include ':app'
